@@ -6,4 +6,4 @@
 4. All 12 useState & useEffect Mistakes Junior React Developers Still Make in 2025: https://youtu.be/-yIsQPp31L0?si=QqpprBs-XMicCtny
 5. Every Frontend Architecture Pattern Explained in 23 Minutes: https://youtu.be/9-r0RuX0pqk?si=fXFSj1mUruevF6Lc
 6. 10 Concepts EVERY Backend Dev Should Know: https://youtu.be/aJb09OHhitI?si=N2MTpBVwa_clKu4J
-7. 
+
